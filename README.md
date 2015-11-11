@@ -1,5 +1,5 @@
-# minerunner (WIP)
-Minesweeper is an endless scrolling game inspired by Minesweeper.
+# MineRunner (WIP)
+An endless scrolling game inspired by Minesweeper.
 
 Written with the Phaser.io framework.
 
