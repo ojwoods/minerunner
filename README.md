@@ -7,4 +7,4 @@ Contains an endless-scrolling procedurally randomally generated map.
 
 Still very much a work in progress, but you can play it here:
 
-http://www.symmetrical-cow.com/tank-runner-html5-game/
+http://symmetrical-cow.co.uk/games/minerunner/
